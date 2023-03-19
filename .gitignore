@@ -19,6 +19,10 @@ _ReSharper.Caches/
 /Tools/gradle/.settings/
 /Gradle/
 /Plugins/SRS
+/Content/spanish
+/Content/turkish
+/Content/chinese_small
+/Source/unreal_srs_demo/Private
 
 # Visual Studio 2015 database file
 *.VC.db
