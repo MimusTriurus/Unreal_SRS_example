@@ -26,6 +26,11 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "SrsPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ce8a5936d39f4a7c97594512d93d2746"
 		}
 	]
 }
