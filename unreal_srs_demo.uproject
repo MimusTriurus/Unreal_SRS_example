@@ -13,15 +13,12 @@
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
-			"Enabled": true,
-			"TargetAllowList": [
-				"Editor"
-			]
+			"Enabled": true
 		},
 		{
 			"Name": "SrsPlugin",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/ce8a5936d39f4a7c97594512d93d2746"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/41fd13f3865842179ffc9bee62889465"
 		}
 	]
 }
